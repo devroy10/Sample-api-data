@@ -1,0 +1,58 @@
+[
+  {
+    "Order ID": "ABC1234",
+    "customer_id": "01",
+    "Order": "Shoes",
+    "Delivery Date": "25-11-2023",
+    "Delivery Pricing": 10.99,
+    "Delivery Status": "In Transit"
+  },
+  {
+    "Order ID": "DEF4567",
+    "customer_id": "02",
+    "Order": "Housing",
+    "Delivery Date": "26-11-2023",
+    "Delivery Pricing": 8.99,
+    "Delivery Status": "Delivered"
+  },
+  {
+    "Order ID": "GHI7890",
+    "customer_id": "03",
+    "Order": "Fashion",
+    "Delivery Date": "27-11-2023",
+    "Delivery Pricing": 12.99,
+    "Delivery Status": "Shipped"
+  },
+  {
+    "Order ID": "JKL0123",
+    "customer_id": "04",
+    "Order": "Electronics",
+    "Delivery Date": "28-11-2023",
+    "Delivery Pricing": 9.99,
+    "Delivery Status": "In Transit"
+  },
+  {
+    "Order ID": "MNO3456",
+    "customer_id": "05",
+    "Order": "Multiple",
+    "Delivery Date": "29-11-2023",
+    "Delivery Pricing": 11.99,
+    "Delivery Status": "Pending"
+  },
+  {
+    "Order ID": "PQR6789",
+    "customer_id": "06",
+    "Order": "Fashion",
+    "Delivery Date": "30-11-2023",
+    "Delivery Pricing": 7.99,
+    "Delivery Status": "Delivered"
+  },
+  {
+    "Order ID": "STU9012",
+    "customer_id": "07",
+    "Order": "Electronics",
+    "Delivery Date": "01-12-2023",
+    "Delivery Pricing": 13.99,
+    "Delivery Status": "Shipped"
+  }
+]
